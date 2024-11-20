@@ -21,3 +21,8 @@ section {
    div{
     padding: 1em;
    }
+   nav{
+    color: #ddd;
+    text-align: left;
+    font-size: 18;
+   }
